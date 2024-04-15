@@ -1,5 +1,6 @@
 #Define libraries
 from gtts import gTTS 
+import os
 import sys
 
 #Load arguments to varraibles
